@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /i/
+
+Sitemap: https://listl-hq.github.io/sitemap.xml

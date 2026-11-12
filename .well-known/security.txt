@@ -1,0 +1,5 @@
+# Found a security problem in Listl or on this website? Please tell us – thank you.
+Contact: mailto:contact@lacodea.com
+Expires: 2027-11-08T00:00:00.000Z
+Preferred-Languages: de, en
+Canonical: https://listl-hq.github.io/.well-known/security.txt

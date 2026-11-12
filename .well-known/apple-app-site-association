@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["QJY67JVQP3.com.lacodea.listl"],
+        "components": [
+          { "/": "/i/*", "comment": "Invitations – InviteCode.link in ListlCore; needs applinks:listl.app in the app" }
+        ]
+      }
+    ]
+  }
+}
